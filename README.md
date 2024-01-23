@@ -5,7 +5,7 @@
 ## 2024년
 |Title|Duration|History|
 |-----|--------|-------|
-| <img width=150px src="https://github.com/jungmyungjin/BookReview/assets/36308113/a4353de7-b5a7-4c6d-90ef-56769a3e44a5" > | 2024.01.15 ~ 진행중 | [IssuesLink](https://github.com/jungmyungjin/BookReview/issues?q=is%3Aopen+is%3Aissue+author%3A%40me+label%3A%22Learning+TypeScript%22)
+| <img width=150px src="https://github.com/jungmyungjin/BookReview/assets/36308113/a4353de7-b5a7-4c6d-90ef-56769a3e44a5" > | 2024.01.15 ~ 진행중 | [IssuesLink](https://github.com/jungmyungjin/BookReview/labels/Morden%20React%20Deep%20Dive)
 
 
 ## 2023년
